@@ -12,7 +12,7 @@ npm install
 * [Express](https://github.com/strongloop/express)
 * [Express-GraphQL](https://github.com/graphql/express-graphql)
 * [GraphQL](https://github.com/graphql/graphql-js)
-* 
+ 
 
 **Documentação**
 
